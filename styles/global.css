@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Readex+Pro:wght@160..700&display=swap');
+
+.navigation {
+
+    padding-left: 476px;
+    padding-top: 34px;
+}
+
+.navigation__list {
+    display: flex;
+    list-style-type: none;
+    gap: 52px;
+
+}
+
+.navigation__link {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.hero {
+    width: 573px;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 155px;
+}
+
+.hero h1 {
+    width: 618px;
+    height: 160px;
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77px;
+    letter-spacing: -2%;
+    text-align: center;
+}
+
+.hero p {
+    /* Lead Text */
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 573px;
+    height: 72px;
+    padding-top: 16px;
+}
+
+.hero button {
+    margin-top: 31px;
+    margin-bottom: 100px;
+    width: 263px;
+    height: 60px;
+    left: 588px;
+    top: 496px;
+    border-radius: 150px;
+    color: white;
+    border: none;
+    box-shadow: 0px 8px 15px 0px rgba(207, 187, 240, 0.25);
+    background: rgb(133, 64, 245);
+}
+
+.container {
+    background: rgb(22, 5, 48);
+}
+
+.footer {
+
+
+    display: flex;
+
+}
+
+.footer input {
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    box-sizing: border-box;
+    margin-top: 176px;
+    margin-left: 134px;
+    /* Indigo 6 */
+    border: 1px solid rgb(224, 207, 252);
+    width: 597px;
+    height: 90px;
+    /* Footer */
+    background: rgb(22, 5, 48);
+}
+
+.footer__content {
+    padding-top: 71px;
+    padding-left: 64px;
+}
+
+.footer__content h1 {
+    color: rgb(242, 242, 242);
+    font-family: Inter;
+    font-size: 58px;
+    font-weight: 600;
+    line-height: 70px;
+    letter-spacing: 0%;
+    text-align: left;
+    width: 576px;
+    height: 227px;
+
+}
+
+.footer__content p {
+    /* Body Text */
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: left;
+    width: 456px;
+    height: 90px;
+}
+
+.footer__text {
+    color: rgb(242, 242, 242);
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0%;
+    padding-left: 1120px;
+    padding-bottom: 50px;
+}
+
+.hero2 h1 {
+    /* Heading 3 */
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 70px;
+
+    width: 768px;
+    height: 431px;
+    left: 265px;
+    top: 56px;
+    display: flex;
+  align-items: center;
+  padding-left: 265px;
+}
+
+.hero2 p{
+    /* Lead Text */
+color: rgb(51, 51, 51);
+font-family: Inter;
+font-size: 21px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+width: 760px;
+height: 1581px;
+padding-left: 406px;}
+
+.hero_text h1{
+/* CTA */
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+}
+.hero_text p{
+    /* Body Text */
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+width: 355px;
+height: 83px;
+}
+.hero_container{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 100px;
+
+}
+.error{
+    /* Heading 2 */
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 64px;
+font-weight: 700;
+line-height: 77px;
+letter-spacing: -2%;
+text-align: center;
+}
+.count{
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+}
+.error_page{
+   text-align: center;
+   margin-top: 200px;
+}
